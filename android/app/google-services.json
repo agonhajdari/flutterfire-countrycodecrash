@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "750116343590",
+    "project_id": "countrycodecrash",
+    "storage_bucket": "countrycodecrash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750116343590:android:b9cf306e16cc86cf77bbe7",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.countrycodecrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750116343590-6kvju9i3qad7tsc2nloo8ot91ofkih1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqUBp4kzP5DMP3AJs2YeWOqQ92HhdPSwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750116343590-6kvju9i3qad7tsc2nloo8ot91ofkih1d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "750116343590-ith96kr1s4puseoo4bh3f4mtfauqesu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.verygoodcore.countrycodecrash"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750116343590:android:06efd2892b1573eb77bbe7",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.countrycodecrash.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750116343590-6kvju9i3qad7tsc2nloo8ot91ofkih1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqUBp4kzP5DMP3AJs2YeWOqQ92HhdPSwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750116343590-6kvju9i3qad7tsc2nloo8ot91ofkih1d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "750116343590-ith96kr1s4puseoo4bh3f4mtfauqesu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.verygoodcore.countrycodecrash"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
