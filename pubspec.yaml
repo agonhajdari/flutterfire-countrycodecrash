@@ -12,7 +12,7 @@ dependencies:
   firebase_auth: ^4.1.0
   firebase_core: ^2.1.1
   firebase_ui_auth: ^1.0.3
-  firebase_ui_localizations: ^1.0.1
+  firebase_ui_localizations: ^1.1.0
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.1
